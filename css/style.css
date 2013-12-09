@@ -92,6 +92,11 @@ a:hover, a:active {
     text-shadow: none;
 }
 
+.sunrise:hover, .sunrise:active {
+    color: rgba(250, 86, 90, 0.8);
+    text-shadow: none;
+}
+
 #jolicloud {
     width: 48px;
     height: 30px;
